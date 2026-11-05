@@ -32,5 +32,3 @@ The project demonstrates the practical application of NumPy arrays, mathematical
 * np.any()
 * np.argsort()
 * np.std()
-* Boolean Indexing
-* Array Slicing and Indexing
